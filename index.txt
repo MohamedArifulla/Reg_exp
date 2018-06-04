@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Regular_Exp_JS</title>
+</head>
+<input type="text" id="txtbox" style="width:250px"/>
+<br/><br/>
+<input type="button" value="Process String" onclick="processString()"/>
+<br/><br/>
+<textarea id="txtarea" rows="4" cols="30"> </textarea>
+<script type="text/javascript">
+function processString()
+{
+
+
+}
+</script>
+</html>

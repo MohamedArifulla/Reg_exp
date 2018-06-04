@@ -1,0 +1,11 @@
+Mohamed-5 Arifulla-890 Arif-10 
+
+Result : 9, 890, 10, 9902
+
+908ABC12XYZ34
+
+Result : 908, 12, 34
+
+$1 $2 $901 ABC(100)
+
+Result : 1, 2, 901, 100 
